@@ -12,5 +12,9 @@ public class Test3 {
  void test3() {
 	 System.out.println();
  }
+ 
+ void test4() {
+	 System.out.println();
+ }
 
 }
