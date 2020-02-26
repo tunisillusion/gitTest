@@ -21,8 +21,6 @@ public class Test3 {
 		System.out.println();
 	}
 	
-	void test7() {
-		System.out.println();
-	}
+	
 
 }
